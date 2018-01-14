@@ -14,6 +14,7 @@
   margin-top: 20rpx;
 }
 .tnm-itemSource text {
+  margin-right: 10rpx;
   color: #999;
   font-size: 24rpx;
 }
