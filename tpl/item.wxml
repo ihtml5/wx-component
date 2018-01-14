@@ -1,0 +1,11 @@
+<template name="tpl/item">
+<navigator url="/pages/logs/logs">
+<view class="tnm-item">
+  <view class="tnm-itemMain">
+    <text>wxComponent</text>
+  </view>
+  <view class="tnm-itemSlidebar">
+  </view>
+</view>
+</navigator>
+</template>

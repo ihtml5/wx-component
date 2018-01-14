@@ -1,0 +1,6 @@
+<!--components/source/source.wxml-->
+<view class="{{oneline ? 'tnm-itemSource-oneline tnm-itemSource' : 'tnm-itemSource'}}">
+  <text>{{source}}</text>
+  <text>{{comments}}</text>
+  <text class='tnm-itemCancel'>x</text>
+</view>

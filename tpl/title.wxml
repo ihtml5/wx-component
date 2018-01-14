@@ -1,0 +1,5 @@
+<template name="tpl/title" data>
+  <view class="tnm-title">
+   {{title}}
+  </view>
+</template>

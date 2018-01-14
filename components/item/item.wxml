@@ -1,0 +1,12 @@
+<view class="tnm-item">
+  <view class="tnm-itemCon">
+    <view class="tnm-itemMain">
+      <title text="{{title}}" bind:toggletitle="toggletitle"></title>
+      <source  wx:if="{{!oneline}}" oneline="{{oneline}}"></source>
+    </view>
+    <view class="tnm-itemSlidebar">
+      <image src="{{img_small}}" mode='aspectFill'></image>
+    </view>
+  </view>
+  <source wx:if="{{oneline}}" oneline="{{oneline}}"></source>
+</view>

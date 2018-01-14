@@ -1,0 +1,7 @@
+{
+      "navigationBarTitleText": "自定义组件",
+      "usingComponents": {
+            "item": "/components/item/item",
+            "source": "/components/source/source"
+      }
+}

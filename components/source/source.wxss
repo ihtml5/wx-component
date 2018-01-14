@@ -1,0 +1,23 @@
+/* components/source/source.wxss */
+.tnm-itemSource {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin-right: 10rpx;
+}
+.tnm-itemSource-oneline {
+  position: relative;
+  margin-top: 20rpx;
+}
+.tnm-itemSource text {
+  color: #999;
+  font-size: 24rpx;
+}
+.tnm-itemCancel {
+  position: absolute;
+  right: 10rpx;
+}

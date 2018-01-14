@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "title": "/components/title/title",
+    "source": "/components/source/source"
+  }
+}
